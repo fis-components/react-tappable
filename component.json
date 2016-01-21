@@ -1,0 +1,15 @@
+{
+    "name": "react-tappable",
+    "description": "Touch / Tappable Event Handling Component for React",
+    "repos": "https://github.com/JedWatson/react-tappable.git",
+    "main": "react-tappable",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "react-dom": "^0.14.0"
+    },
+    "paths": {
+        "dist": "."
+    },
+    "version": "0.8.0"
+}
